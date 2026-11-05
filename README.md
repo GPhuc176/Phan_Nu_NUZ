@@ -2,6 +2,8 @@
 
 A Vietnamese-language storytelling website for **"Nụ Xưa, Nét Nay"**, a student communication project that promotes Phấn Nụ, a traditional natural cosmetic from the royal court of Huế. Built with HTML, CSS, and vanilla JavaScript.
 
+**Live demo:** https://phannunuz.netlify.app/
+
 ## Features
 
 - **Scroll-controlled animation:** a 151-frame canvas animation of a Phấn Nụ tablet blooming, controlled by mouse scroll or a slider on mobile.
@@ -34,11 +36,9 @@ git clone https://github.com/GPhuc176/Phan_Nu_NUZ.git
 cd Phan_Nu_NUZ
 ```
 
-To publish for free, enable **GitHub Pages** in Settings → Pages and select the `main` branch.
-
 ## Tech Stack
 
-HTML5, CSS3, JavaScript (no framework), Canvas API, Google Fonts, Google Analytics
+HTML5, CSS3, JavaScript (no framework), Canvas API, Google Fonts, Google Analytics, deployed on Netlify
 
 ## Author
 
